@@ -17,7 +17,6 @@ trojan://9a5d5450-c066-4cf1-92e6-f2fe47d7e0fc@hainiu.yuzhou889.top:19047?securit
 trojan://85a43835-77aa-422d-9374-9c1b447a8c3f@hainiu.yuzhou889.top:19045?security=tls&headerType=none&type=tcp#%E6%97%A5%E6%9C%AC1
 trojan://94d78772-14b1-4b45-9dc8-c07347214730@hainiu.yuzhou889.top:19045?security=tls&headerType=none&type=tcp#%E6%97%A5%E6%9C%AC
 trojan://142f1057-e5d8-4fea-99b8-e1f9c78dee18@hainiu.yuzhou889.top:19044?security=tls&headerType=none&type=tcp#%E9%A6%99%E6%B8%AF1
-trojan://a7747cf2-234d-4df2-bcfd-b24cd3cd149c@hainiu.yuzhou889.top:19048?security=tls&headerType=none&type=tcp#%E8%B6%8A%E5%8D%97
 trojan://7c3e05bb-92a7-47a3-9e59-dfcc06c9898b@hainiu.yuzhou889.top:19046?security=tls&headerType=none&type=tcp#%E5%8F%B0%E6%B9%BE
 trojan://34325f28-1c2e-45e1-bf30-7b56d04b40d0@hainiu.yuzhou889.top:19045?security=tls&headerType=none&type=tcp#%E6%97%A5%E6%9C%AC1
 trojan://0f8f7915-5b7f-489e-bb87-5f1e3b453f5d@hainiu.yuzhou889.top:19045?security=tls&headerType=none&type=tcp#%E6%97%A5%E6%9C%AC
